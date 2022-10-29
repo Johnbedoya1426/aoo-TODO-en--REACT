@@ -23,9 +23,9 @@ function TodoProvider(props) {
       if(!searchValue.length >= 1) {
         searchedTodos= todos;
       }else {
+        const searchText = searchValue.toLowerCase();
         searchedTodos = todos.filter(todo => {
           const todoText = todo.text.toLowerCase();
-          const searchText = searchValue.toLowerCase();
           return todoText.includes(searchText);
         });
       }

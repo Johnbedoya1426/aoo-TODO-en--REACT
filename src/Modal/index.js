@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from 'react-dom/client';
+// import ReactDOM from 'react-dom/client';
 import { createPortal } from 'react-dom';
 import './Modal.css';
 

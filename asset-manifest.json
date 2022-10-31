@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aoo-TODO-en--REACCT/static/css/main.6518d637.css",
+    "main.js": "/aoo-TODO-en--REACCT/static/js/main.69d36b89.js",
+    "index.html": "/aoo-TODO-en--REACCT/index.html",
+    "main.6518d637.css.map": "/aoo-TODO-en--REACCT/static/css/main.6518d637.css.map",
+    "main.69d36b89.js.map": "/aoo-TODO-en--REACCT/static/js/main.69d36b89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6518d637.css",
+    "static/js/main.69d36b89.js"
+  ]
+}
